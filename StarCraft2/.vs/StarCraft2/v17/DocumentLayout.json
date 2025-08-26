@@ -1,0 +1,65 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\\uC0C8 \uD3F4\uB354\\StarCraft2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5D1FA3DC-9928-4265-A795-F7B14FC9F80A}|StarCraft2\\StarCraft2.vcxproj|D:\\\uC0C8 \uD3F4\uB354\\StarCraft2\\StarCraft2\\2cpp.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5D1FA3DC-9928-4265-A795-F7B14FC9F80A}|StarCraft2\\StarCraft2.vcxproj|solutionrelative:StarCraft2\\2cpp.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D1FA3DC-9928-4265-A795-F7B14FC9F80A}|StarCraft2\\StarCraft2.vcxproj|D:\\\uC0C8 \uD3F4\uB354\\StarCraft2\\StarCraft2\\1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5D1FA3DC-9928-4265-A795-F7B14FC9F80A}|StarCraft2\\StarCraft2.vcxproj|solutionrelative:StarCraft2\\1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{2d7728c2-de0a-45b5-99aa-89b609dfde73}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{c9c0ae26-aa77-11d2-b3f0-0000f87570ee}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "2cpp.cpp",
+              "DocumentMoniker": "D:\\\uC0C8 \uD3F4\uB354\\StarCraft2\\StarCraft2\\2cpp.cpp",
+              "RelativeDocumentMoniker": "StarCraft2\\2cpp.cpp",
+              "ToolTip": "D:\\\uC0C8 \uD3F4\uB354\\StarCraft2\\StarCraft2\\2cpp.cpp",
+              "RelativeToolTip": "StarCraft2\\2cpp.cpp",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAAFUAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-08-22T06:12:44.397Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "1.cpp",
+              "DocumentMoniker": "D:\\\uC0C8 \uD3F4\uB354\\StarCraft2\\StarCraft2\\1.cpp",
+              "RelativeDocumentMoniker": "StarCraft2\\1.cpp",
+              "ToolTip": "D:\\\uC0C8 \uD3F4\uB354\\StarCraft2\\StarCraft2\\1.cpp",
+              "RelativeToolTip": "StarCraft2\\1.cpp",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAABwAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-08-22T04:28:36.891Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
