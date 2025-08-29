@@ -266,7 +266,8 @@ MyString& MyString::insert(int loc, char c) {
 
 MyString& MyString::erase(int loc, int num) {
     // loc 의 앞부터 시작해서 num 문자를 지움 
-    if (num < 0 || loc < 0 || loc > string_length) {
+
+    if (num < 0 || loc < 0 ) {
         return *this;
     }
     // 지운다는 것은 단순히 뒤의 문자들을 앞으로 끌고 온다고 
@@ -290,6 +291,11 @@ int main() {
     MyString str2("abcde");
 
     std::cout << "str1 and str2 compare : " << str.compare(str2) << std::endl;
+
+    MyString str3("qwer");
+    str3.erase(5, 1);
+    str3.println();
+
 
 
 }

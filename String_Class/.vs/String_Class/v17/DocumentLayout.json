@@ -3,8 +3,20 @@
   "WorkspaceRootPath": "D:\\\uC0C8 \uD3F4\uB354\\String_Class\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{64D4DA51-C259-46B5-B180-471389D8515F}|String_Class\\String_Class.vcxproj|D:\\\uC0C8 \uD3F4\uB354\\String_Class\\String_Class\\mutable.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{64D4DA51-C259-46B5-B180-471389D8515F}|String_Class\\String_Class.vcxproj|solutionrelative:String_Class\\mutable.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64D4DA51-C259-46B5-B180-471389D8515F}|String_Class\\String_Class.vcxproj|D:\\\uC0C8 \uD3F4\uB354\\String_Class\\String_Class\\explict.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{64D4DA51-C259-46B5-B180-471389D8515F}|String_Class\\String_Class.vcxproj|solutionrelative:String_Class\\explict.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{64D4DA51-C259-46B5-B180-471389D8515F}|String_Class\\String_Class.vcxproj|D:\\\uC0C8 \uD3F4\uB354\\String_Class\\String_Class\\2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{64D4DA51-C259-46B5-B180-471389D8515F}|String_Class\\String_Class.vcxproj|solutionrelative:String_Class\\2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64D4DA51-C259-46B5-B180-471389D8515F}|String_Class\\String_Class.vcxproj|D:\\\uC0C8 \uD3F4\uB354\\String_Class\\String_Class\\3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{64D4DA51-C259-46B5-B180-471389D8515F}|String_Class\\String_Class.vcxproj|solutionrelative:String_Class\\3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{64D4DA51-C259-46B5-B180-471389D8515F}|String_Class\\String_Class.vcxproj|D:\\\uC0C8 \uD3F4\uB354\\String_Class\\String_Class\\1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
@@ -35,19 +47,58 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "mutable.cpp",
+              "DocumentMoniker": "D:\\\uC0C8 \uD3F4\uB354\\String_Class\\String_Class\\mutable.cpp",
+              "RelativeDocumentMoniker": "String_Class\\mutable.cpp",
+              "ToolTip": "D:\\\uC0C8 \uD3F4\uB354\\String_Class\\String_Class\\mutable.cpp",
+              "RelativeToolTip": "String_Class\\mutable.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-08-29T01:23:48.223Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "explict.cpp",
+              "DocumentMoniker": "D:\\\uC0C8 \uD3F4\uB354\\String_Class\\String_Class\\explict.cpp",
+              "RelativeDocumentMoniker": "String_Class\\explict.cpp",
+              "ToolTip": "D:\\\uC0C8 \uD3F4\uB354\\String_Class\\String_Class\\explict.cpp",
+              "RelativeToolTip": "String_Class\\explict.cpp",
+              "ViewState": "AgIAAC4AAAAAAAAAAADgvz8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-08-29T00:38:31.7Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "3.cpp",
+              "DocumentMoniker": "D:\\\uC0C8 \uD3F4\uB354\\String_Class\\String_Class\\3.cpp",
+              "RelativeDocumentMoniker": "String_Class\\3.cpp",
+              "ToolTip": "D:\\\uC0C8 \uD3F4\uB354\\String_Class\\String_Class\\3.cpp",
+              "RelativeToolTip": "String_Class\\3.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-08-28T07:59:15.147Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "2.cpp",
               "DocumentMoniker": "D:\\\uC0C8 \uD3F4\uB354\\String_Class\\String_Class\\2.cpp",
               "RelativeDocumentMoniker": "String_Class\\2.cpp",
               "ToolTip": "D:\\\uC0C8 \uD3F4\uB354\\String_Class\\String_Class\\2.cpp",
               "RelativeToolTip": "String_Class\\2.cpp",
-              "ViewState": "AgIAAAgBAAAAAAAAAAAAACQBAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAHsAAAAAAAAAAAAkwBQBAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-08-28T06:03:51.372Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "1.cpp",
               "DocumentMoniker": "D:\\\uC0C8 \uD3F4\uB354\\String_Class\\String_Class\\1.cpp",
               "RelativeDocumentMoniker": "String_Class\\1.cpp",
