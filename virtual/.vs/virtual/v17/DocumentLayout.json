@@ -1,0 +1,100 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\\uC0C8 \uD3F4\uB354\\virtual\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1330460B-9A69-4C14-834C-FC9EFF031BF2}|virtual\\virtual.vcxproj|D:\\\uC0C8 \uD3F4\uB354\\virtual\\virtual\\Employee.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1330460B-9A69-4C14-834C-FC9EFF031BF2}|virtual\\virtual.vcxproj|solutionrelative:virtual\\Employee.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1330460B-9A69-4C14-834C-FC9EFF031BF2}|virtual\\virtual.vcxproj|D:\\\uC0C8 \uD3F4\uB354\\virtual\\virtual\\override.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1330460B-9A69-4C14-834C-FC9EFF031BF2}|virtual\\virtual.vcxproj|solutionrelative:virtual\\override.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1330460B-9A69-4C14-834C-FC9EFF031BF2}|virtual\\virtual.vcxproj|D:\\\uC0C8 \uD3F4\uB354\\virtual\\virtual\\virtual.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1330460B-9A69-4C14-834C-FC9EFF031BF2}|virtual\\virtual.vcxproj|solutionrelative:virtual\\virtual.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1330460B-9A69-4C14-834C-FC9EFF031BF2}|virtual\\virtual.vcxproj|D:\\\uC0C8 \uD3F4\uB354\\virtual\\virtual\\is-a_has-a.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1330460B-9A69-4C14-834C-FC9EFF031BF2}|virtual\\virtual.vcxproj|solutionrelative:virtual\\is-a_has-a.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{2d7728c2-de0a-45b5-99aa-89b609dfde73}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{c9c0ae26-aa77-11d2-b3f0-0000f87570ee}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Employee.cpp",
+              "DocumentMoniker": "D:\\\uC0C8 \uD3F4\uB354\\virtual\\virtual\\Employee.cpp",
+              "RelativeDocumentMoniker": "virtual\\Employee.cpp",
+              "ToolTip": "D:\\\uC0C8 \uD3F4\uB354\\virtual\\virtual\\Employee.cpp",
+              "RelativeToolTip": "virtual\\Employee.cpp",
+              "ViewState": "AgIAAEgAAAAAAAAAAADwv2MAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-09-10T01:03:48.298Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "override.cpp",
+              "DocumentMoniker": "D:\\\uC0C8 \uD3F4\uB354\\virtual\\virtual\\override.cpp",
+              "RelativeDocumentMoniker": "virtual\\override.cpp",
+              "ToolTip": "D:\\\uC0C8 \uD3F4\uB354\\virtual\\virtual\\override.cpp",
+              "RelativeToolTip": "virtual\\override.cpp",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAuwBQAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-09-10T00:47:03.547Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "virtual.cpp",
+              "DocumentMoniker": "D:\\\uC0C8 \uD3F4\uB354\\virtual\\virtual\\virtual.cpp",
+              "RelativeDocumentMoniker": "virtual\\virtual.cpp",
+              "ToolTip": "D:\\\uC0C8 \uD3F4\uB354\\virtual\\virtual\\virtual.cpp",
+              "RelativeToolTip": "virtual\\virtual.cpp",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAACcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-09-10T00:33:37.818Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "is-a_has-a.cpp",
+              "DocumentMoniker": "D:\\\uC0C8 \uD3F4\uB354\\virtual\\virtual\\is-a_has-a.cpp",
+              "RelativeDocumentMoniker": "virtual\\is-a_has-a.cpp",
+              "ToolTip": "D:\\\uC0C8 \uD3F4\uB354\\virtual\\virtual\\is-a_has-a.cpp",
+              "RelativeToolTip": "virtual\\is-a_has-a.cpp",
+              "ViewState": "AgIAACwAAAAAAAAAAAAuwEsAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-09-09T07:28:55.68Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
