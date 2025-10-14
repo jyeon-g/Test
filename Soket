@@ -1,0 +1,45 @@
+#include <winsock2.h>	// 소켓을 사용하기 위한 헤더 파일 
+#include <ws2tcpip.h>
+#include <stdio.h>
+#include <iostream>
+
+#pragma comment(lib, "Ws2_32.lib")	// 위에서 선언한 헤더 파일들을 가져다 쓰기 위한 링크 
+
+#define PORT 4578
+#define PACKET_SIZE 1024
+#define SERVER_IP 192.168,0.195
+
+int main() {
+	WSADATA wsaData;
+	WSAStartup(MAKEWORD(2, 2), &wsaData);	// 소켓 구현을 초기화 
+
+	SOCKET hListen;
+	hListen = socket(PF_INET, SOCK_STREAM, IPPROTO_TCP);	// 소켓을 생성하는 함수 호출 
+
+	SOCKADDR_IN tListenAddr = {};	// SOCKADDR_IN 구조를 생성하고 0으로 초기화 
+	tListenAddr.sin_family = AF_INET;	// 인터넷 주소 계열(IPv4)에 대해 AF_INET로 설정되어야 하는 주소 계열 지정 
+	tListenAddr.sin_port = htons(PORT);	// 네트워크 바이트 순서로 포트 번호 지정
+	tListenAddr.sin_addr.s_addr = htonl(INADDR_ANY); // 네트워크 바이트 순서로 IP 주소 지정하는 구조체 
+
+	bind(hListen, (SOCKADDR*)&tListenAddr, sizeof(tListenAddr));	// 소켓을 특정 주소 및 포트와 연결하는 함수 
+	listen(hListen, SOMAXCONN);	// 소켓에서 들어오는 연결을 수신 대기 
+
+	SOCKADDR_IN tClntAddr = {};
+	int iClntSize = sizeof(tClntAddr);
+	SOCKET hClient = accept(hListen, (SOCKADDR*)&tClntAddr, &iClntSize);	// 소켓에서 들어오는 연결 수락 
+
+	char cBuffer[PACKET_SIZE] = {};	// PACKET_SIZE 상수로 지정된 크기의 문자 배열을 생성 
+	recv(hClient, cBuffer, PACKET_SIZE, 0);	// 소켓에서 데이터를 받는 함수 
+	printf("Recv Msg : %s\n", cBuffer);
+
+	char cMsg[] = "Server Send";
+	send(hClient, cMsg, strlen(cMsg), 0);
+
+	closesocket(hClient);	// 소켓을 닫음 
+	closesocket(hListen);
+
+
+	WSACleanup();
+
+	return 0;
+}
